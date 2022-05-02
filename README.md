@@ -1,2 +1,2 @@
 # Transferencia-de-calor
-Acá resolveremos problemas de transferencia de calor ya sea numérica o analíticamente.
+Acá resolveremos problemas de transferencia de calor y materia ya sea usando metodos numéricos o analíticos.
